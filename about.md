@@ -1,15 +1,13 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /aboutme/
 ---
-
-Some information about you!
-
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Born in India. Moved to Massachusetts. I do math sometimes. Other times, I type things on my computer. Overall, I got some stuff going on.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[sjakati@umass.edu](mailto:sjakati@umass.edu)
+[shishir.jakati98@gmail.com](mailto:shishir.jakati98@gmail.com)
